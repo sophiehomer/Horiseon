@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-  /* HEADER / NAV BAR STYLES START */
+/* HEADER / NAV BAR STYLES START */
 
 header {
     padding: 20px;
@@ -51,9 +51,9 @@ a {
 p {
     font-size: 16px;
 }
-  /* HEADER / NAV BAR STYLES END */
+/* HEADER / NAV BAR STYLES END */
 
-  /* HERO STYLE STARTS */
+/* HERO STYLE STARTS */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,9 +62,9 @@ p {
     background-size: cover;
     background-position: center;
 }
-  /* HERO STYLE ENDS */
+/* HERO STYLE ENDS */
 
-  /* FLOAT STYLES START */
+/* FLOAT STYLES START */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,9 +74,9 @@ p {
     float: right;
     margin-left: 25px;
 }
-  /* FLOAT STYLES END */
+/* FLOAT STYLES END */
 
-  /* MAIN STLYES START */
+/* MAIN STLYES START */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,9 +100,9 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-  /* MAIN STYLES END */
+/* MAIN STYLES END */
 
-  /* ASIDE STYLES START */
+/* ASIDE STYLES START */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -129,10 +129,10 @@ section h2 {
     margin: 10px auto;
     max-width: 150px;
 }
-  /* ASIDE STYLES END */
+/* ASIDE STYLES END */
 
 
-  /* FOOTER STYLES START */
+/* FOOTER STYLES START */
 .footer {
     padding: 30px;
     clear: both;
@@ -143,4 +143,4 @@ section h2 {
 .footer h4 {
     font-size: 20px;
 }
-  /* FOOTER STYLES END */
+/* FOOTER STYLES END */
